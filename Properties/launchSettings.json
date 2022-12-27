@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TwitchChatFrequencyMapper (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TwitchChatFrequencyMapper (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
